@@ -97,15 +97,6 @@ The system integrates **computer vision, deep learning, and clinical measurement
 
 ---
 
-## 🎓 Team Members
-
-- **Saksham Singh**  
-- **Akshat Bhatnagar**  
-- **Ananya**  
-- **Saumya Kumari**  
-- **Anshika Ahuja**  
-
----
 
 ## 👨‍🏫 Mentors
 
@@ -121,15 +112,7 @@ The system integrates **computer vision, deep learning, and clinical measurement
 - Integration with hospital systems  
 - Clinical validation with doctors  
 
----
 
-## 📬 Contact
-
-For queries or collaboration:
-
-📧 *akshatbhatnagar797@gmail.com*  
-
----
 
 ## ⭐ Final Note
 
